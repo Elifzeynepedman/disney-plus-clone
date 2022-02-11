@@ -47,7 +47,6 @@ img{
      object-fit:cover;     
   }
   &:hover{
-    box-shadow:
     transform:scale(1.05);
     border:4px solid rgba(249,249,249,0.8);
 
